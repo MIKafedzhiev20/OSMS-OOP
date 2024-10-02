@@ -1,0 +1,4 @@
+C:\Users\RJ\source\repos\OSMS\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RJ\source\repos\OSMS\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\RJ\source\repos\OSMS\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\RJ\source\repos\OSMS\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache

@@ -1,0 +1,4 @@
+C:\Users\RJ\source\repos\OSMS\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RJ\source\repos\OSMS\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\RJ\source\repos\OSMS\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\RJ\source\repos\OSMS\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache

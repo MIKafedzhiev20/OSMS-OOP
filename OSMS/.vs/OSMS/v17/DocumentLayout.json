@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RJ\\source\\repos\\OSMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FCC1C1-F579-47FE-BBB4-D734E381E802}|OSMS\\Presentation.csproj|c:\\users\\rj\\source\\repos\\osms\\osms\\dal\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FCC1C1-F579-47FE-BBB4-D734E381E802}|OSMS\\Presentation.csproj|solutionrelative:osms\\dal\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FCC1C1-F579-47FE-BBB4-D734E381E802}|OSMS\\Presentation.csproj|c:\\users\\rj\\source\\repos\\osms\\osms\\dal\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FCC1C1-F579-47FE-BBB4-D734E381E802}|OSMS\\Presentation.csproj|solutionrelative:osms\\dal\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FCC1C1-F579-47FE-BBB4-D734E381E802}|OSMS\\Presentation.csproj|c:\\users\\rj\\source\\repos\\osms\\osms\\dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FCC1C1-F579-47FE-BBB4-D734E381E802}|OSMS\\Presentation.csproj|solutionrelative:osms\\dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FCC1C1-F579-47FE-BBB4-D734E381E802}|OSMS\\Presentation.csproj|c:\\users\\rj\\source\\repos\\osms\\osms\\bll\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FCC1C1-F579-47FE-BBB4-D734E381E802}|OSMS\\Presentation.csproj|solutionrelative:osms\\bll\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FCC1C1-F579-47FE-BBB4-D734E381E802}|OSMS\\Presentation.csproj|c:\\users\\rj\\source\\repos\\osms\\osms\\bll\\orderservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FCC1C1-F579-47FE-BBB4-D734E381E802}|OSMS\\Presentation.csproj|solutionrelative:osms\\bll\\orderservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FCC1C1-F579-47FE-BBB4-D734E381E802}|OSMS\\Presentation.csproj|c:\\users\\rj\\source\\repos\\osms\\osms\\bll\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FCC1C1-F579-47FE-BBB4-D734E381E802}|OSMS\\Presentation.csproj|solutionrelative:osms\\bll\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FCC1C1-F579-47FE-BBB4-D734E381E802}|OSMS\\Presentation.csproj|c:\\users\\rj\\source\\repos\\osms\\osms\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FCC1C1-F579-47FE-BBB4-D734E381E802}|OSMS\\Presentation.csproj|solutionrelative:osms\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FCC1C1-F579-47FE-BBB4-D734E381E802}|OSMS\\Presentation.csproj|c:\\users\\rj\\source\\repos\\osms\\osms\\dal\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FCC1C1-F579-47FE-BBB4-D734E381E802}|OSMS\\Presentation.csproj|solutionrelative:osms\\dal\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FCC1C1-F579-47FE-BBB4-D734E381E802}|OSMS\\Presentation.csproj|c:\\users\\rj\\source\\repos\\osms\\osms\\dal\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FCC1C1-F579-47FE-BBB4-D734E381E802}|OSMS\\Presentation.csproj|solutionrelative:osms\\dal\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FCC1C1-F579-47FE-BBB4-D734E381E802}|OSMS\\Presentation.csproj|c:\\users\\rj\\source\\repos\\osms\\osms\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0FCC1C1-F579-47FE-BBB4-D734E381E802}|OSMS\\Presentation.csproj|solutionrelative:osms\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\OSMS\\OSMS\\DAL\\Payment.cs",
+              "RelativeDocumentMoniker": "OSMS\\DAL\\Payment.cs",
+              "ToolTip": "C:\\Users\\RJ\\source\\repos\\OSMS\\OSMS\\DAL\\Payment.cs",
+              "RelativeToolTip": "OSMS\\DAL\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:42:44.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\OSMS\\OSMS\\DAL\\Discount.cs",
+              "RelativeDocumentMoniker": "OSMS\\DAL\\Discount.cs",
+              "ToolTip": "C:\\Users\\RJ\\source\\repos\\OSMS\\OSMS\\DAL\\Discount.cs",
+              "RelativeToolTip": "OSMS\\DAL\\Discount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:42:34.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\OSMS\\OSMS\\DAL\\Order.cs",
+              "RelativeDocumentMoniker": "OSMS\\DAL\\Order.cs",
+              "ToolTip": "C:\\Users\\RJ\\source\\repos\\OSMS\\OSMS\\DAL\\Order.cs",
+              "RelativeToolTip": "OSMS\\DAL\\Order.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA9wCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:42:29.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\OSMS\\OSMS\\DAL\\Customer.cs",
+              "RelativeDocumentMoniker": "OSMS\\DAL\\Customer.cs",
+              "ToolTip": "C:\\Users\\RJ\\source\\repos\\OSMS\\OSMS\\DAL\\Customer.cs",
+              "RelativeToolTip": "OSMS\\DAL\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:42:23.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\OSMS\\OSMS\\DAL\\Product.cs",
+              "RelativeDocumentMoniker": "OSMS\\DAL\\Product.cs",
+              "ToolTip": "C:\\Users\\RJ\\source\\repos\\OSMS\\OSMS\\DAL\\Product.cs",
+              "RelativeToolTip": "OSMS\\DAL\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:42:15.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\OSMS\\OSMS\\BLL\\CustomerService.cs",
+              "RelativeDocumentMoniker": "OSMS\\BLL\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\RJ\\source\\repos\\OSMS\\OSMS\\BLL\\CustomerService.cs",
+              "RelativeToolTip": "OSMS\\BLL\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:42:04.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\OSMS\\OSMS\\BLL\\ProductService.cs",
+              "RelativeDocumentMoniker": "OSMS\\BLL\\ProductService.cs",
+              "ToolTip": "C:\\Users\\RJ\\source\\repos\\OSMS\\OSMS\\BLL\\ProductService.cs",
+              "RelativeToolTip": "OSMS\\BLL\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:41:54.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderServicer.cs",
+              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\OSMS\\OSMS\\BLL\\OrderServicer.cs",
+              "RelativeDocumentMoniker": "OSMS\\BLL\\OrderServicer.cs",
+              "ToolTip": "C:\\Users\\RJ\\source\\repos\\OSMS\\OSMS\\BLL\\OrderServicer.cs",
+              "RelativeToolTip": "OSMS\\BLL\\OrderServicer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:41:47.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\OSMS\\OSMS\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "OSMS\\Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\RJ\\source\\repos\\OSMS\\OSMS\\Presentation\\Program.cs",
+              "RelativeToolTip": "OSMS\\Presentation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:41:31.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Presentation",
+              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\OSMS\\OSMS\\Presentation.csproj",
+              "RelativeDocumentMoniker": "OSMS\\Presentation.csproj",
+              "ToolTip": "C:\\Users\\RJ\\source\\repos\\OSMS\\OSMS\\Presentation.csproj",
+              "RelativeToolTip": "OSMS\\Presentation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-02T20:32:54.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

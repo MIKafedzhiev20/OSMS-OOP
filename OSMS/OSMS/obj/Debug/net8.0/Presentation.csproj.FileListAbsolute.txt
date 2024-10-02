@@ -1,0 +1,14 @@
+C:\Users\RJ\source\repos\OSMS\OSMS\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RJ\source\repos\OSMS\OSMS\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+C:\Users\RJ\source\repos\OSMS\OSMS\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+C:\Users\RJ\source\repos\OSMS\OSMS\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\RJ\source\repos\OSMS\OSMS\bin\Debug\net8.0\Presentation.exe
+C:\Users\RJ\source\repos\OSMS\OSMS\bin\Debug\net8.0\Presentation.deps.json
+C:\Users\RJ\source\repos\OSMS\OSMS\bin\Debug\net8.0\Presentation.runtimeconfig.json
+C:\Users\RJ\source\repos\OSMS\OSMS\bin\Debug\net8.0\Presentation.dll
+C:\Users\RJ\source\repos\OSMS\OSMS\bin\Debug\net8.0\Presentation.pdb
+C:\Users\RJ\source\repos\OSMS\OSMS\obj\Debug\net8.0\Presentation.dll
+C:\Users\RJ\source\repos\OSMS\OSMS\obj\Debug\net8.0\refint\Presentation.dll
+C:\Users\RJ\source\repos\OSMS\OSMS\obj\Debug\net8.0\Presentation.pdb
+C:\Users\RJ\source\repos\OSMS\OSMS\obj\Debug\net8.0\Presentation.genruntimeconfig.cache
+C:\Users\RJ\source\repos\OSMS\OSMS\obj\Debug\net8.0\ref\Presentation.dll
